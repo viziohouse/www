@@ -1,5 +1,4 @@
-# www
-www.vizio.house
+# vizio.house
 
 
 ## docs
