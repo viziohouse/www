@@ -2,7 +2,10 @@
 
 AR application for calculating the roof area in a building, excluding windows and chimneys, based on photography.
 
-[AR Plan 3D Tape Measure, Ruler - Apps on Google Play](https://play.google.com/store/apps/details?id=com.grymala.arplan&hl=en_US)
++ [Jak obliczyć powierzchnię pokrycia dachowego?](https://balex.eu/baza-wiedzy/aktualnosci/jak-obliczyc-powierzchnie-pokrycia-dachowego)
+
++ [AR Plan 3D Tape Measure, Ruler - Apps on Google Play](https://play.google.com/store/apps/details?id=com.grymala.arplan&hl=en_US)
+
 
 
 
