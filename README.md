@@ -4,6 +4,9 @@ AR application for calculating the roof area in a building, excluding windows an
 
 + [Jak obliczyć powierzchnię pokrycia dachowego?](https://balex.eu/baza-wiedzy/aktualnosci/jak-obliczyc-powierzchnie-pokrycia-dachowego)
 
++ [Kalkulator obliczania krokwie systemu dwuspadowoj dachy, pokrycia dachowe](https://kalk.pro/pl/dachy/dach-dwuspadowy/)
+
+
 + [AR Plan 3D Tape Measure, Ruler - Apps on Google Play](https://play.google.com/store/apps/details?id=com.grymala.arplan&hl=en_US)
 
 
