@@ -1,5 +1,10 @@
 # vizio.house
 
+AR application for calculating the roof area in a building, excluding windows and chimneys, based on photography.
+
+[AR Plan 3D Tape Measure, Ruler - Apps on Google Play](https://play.google.com/store/apps/details?id=com.grymala.arplan&hl=en_US)
+
+
 
 Certainly! Calculating the roof area for a building, excluding windows and chimneys, can be done using various methods. Here are some approaches:
 
