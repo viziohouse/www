@@ -37,6 +37,37 @@ Remember that accuracy is crucial, especially for complex roof shapes. Consider 
 
 
 
+# PL
+https://www.sketchandcalc.com/blog/roof-area-calculator/
+na dzień dzisiejszy rozmawiałem w sprawie w ogóle dostępnosci tego typu aplikacji, odnośnie budynków to dobra wiadomośc jest taka, że można skorzystać z satelitarnych fotografii oraz lokalnych z dronów i aparatu, więc da sie znaleźć kilka punktów odniesienia i zwiększyć dokładność i szybkość kalkulacji bo to koszt, który na poziomie szacowania kosztów inwestycji jak wymiana okien wymaga szacunków a nie dokładnych i kosztownych wycen.
+
+, to kwestia na jak precyzyjnym pomiarze tobie zależy. Jakość zdjęcia ma znaczenie, ale też optyka i matryca, która to zdjęcie wykonuje. Rejestracja kluczowych danych przydatnych kalkulacjom. Drony po prostu obliczają wysokość od gruntu lub przeszkody na której się znajdują i pozycję GPS. Może zwykłe narysowanie prostokąta na przysłowiowych Google Maps też rozwiązuje sprawę, może jakieś API do pobierania punktów do obliczeń? Strzelam…
+
+oprogramowania do chmury punktów, fotogrametrii ze zdjeć lotniczych, dronowych typu PixPro i podobnych trochę jest, ale może nisza jakaś się znajdzie
+ dlaczego AR? Jeśli masz jedno zdjęcie, to możesz tylko przez ML przybliżoną powierzchnię. Jeśli masz więcej zdjęć, to fotogrametria będzie właściwą metodą.
+Używałem fotogrametrii zwykle do takich zadań, jak chciałem coś zmierzyć bez większego wysiłku.
+
+obliczenie powierzchni dachu ze zdjęcia zrobisz za pomocą Fotogrametrii
+
+Fotogrametria to technika, która wykorzystuje zdjęcia do pomiarów i modelowania obiektów w przestrzeni. 
+
+Fotogrametria lotnicza:
+ - W fotogrametrii lotniczej wykonywane są zdjęcia lotnicze z samolotów lub dronów.
+ - Na podstawie tych zdjęć można stworzyć cyfrowe modele 2D lub 3D o wysokiej rozdzielczości.
+ - Fotogrametria lotnicza pozwala na **pomiar** różnych parametrów, w tym powierzchni dachów.
+
+Obliczanie powierzchni dachu:
+ - Aby obliczyć powierzchnię dachu ze zdjęcia, potrzebujesz dokładnych pomiarów.
+ - Wybierz na zdjęciu charakterystyczne punkty dachu, takie jak narożniki czy inne szczegóły.
+ - Na podstawie tych punktów możesz wyznaczyć wymiary i powierzchnię dachu.
+
+Oprogramowanie fotogrametryczne:
+ - Do przetwarzania zdjęć i obliczeń fotogrametrycznych używa się specjalistycznego oprogramowania.
+
+W skrócie, tak, za pomocą fotogrametrii można obliczyć powierzchnię dachu ze zdjęcia. Warto jednak pamiętać o dokładności pomiarów i wyborze odpowiednich punktów na zdjęciu. Jeśli masz konkretne zdjęcie dachu, możesz skorzystać z oprogramowania fotogrametrycznego.
+
+
+
 ## docs
 
 + [Roof Area Calculator • Surface Area Multiplied by Pitch | SketchAndCalc](https://www.sketchandcalc.com/blog/roof-area-calculator/)
